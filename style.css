@@ -1,0 +1,23 @@
+body {
+    background-color: #a8a8a8;
+}
+
+
+.title {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.title__big {
+    color: #FFFFFF;
+    font-size: 80px;
+    font-weight: 900;
+    line-height: 80px;
+}
+
+.title__colored {
+    color: #F9BF3B;
+    font-size: 41px;
+    font-weight: 900;
+    line-height: 41px;
+}
