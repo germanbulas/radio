@@ -21,3 +21,26 @@ body {
     font-weight: 900;
     line-height: 41px;
 }
+
+
+.logo__img{
+    display: block;
+    margin: 0 auto;
+}
+
+.logo__text{
+    text-align: center;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+.img__lol{
+    display: block;
+    margin: 0 auto;
+}
+
+.text__lol{
+    text-align: center;
+    color: #FFFFFF;
+text-transform: uppercase;
+}
