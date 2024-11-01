@@ -3,6 +3,19 @@ body {
 }
 
 
+.promo {
+    background: url('img/Mainbg.jpg') center center / cover no-repeat;
+    padding-top: 22px;
+    padding-bottom: 50px;
+}
+
+
+.container{
+    width: 1140px;
+    margin: auto;
+}
+
+
 .title {
     text-transform: uppercase;
     text-align: center;
@@ -13,6 +26,7 @@ body {
     font-size: 80px;
     font-weight: 900;
     line-height: 80px;
+  
 }
 
 .title__colored {
